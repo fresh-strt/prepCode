@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "str_manp.h"
 
-
+//Test git commit
 int main(int argc, char* argv[]){
 
 	char str[] = "triumph";
